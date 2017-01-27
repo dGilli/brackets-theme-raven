@@ -1,8 +1,8 @@
 {
-    "name": "raven",
-    "title": "Raven",
+    "name": "raven-adjusted",
+    "title": "Raven-adjusted",
     "description": "Dark color scheme based on Dreamweaver CC's Raven theme.",
-    "homepage": "https://github.com/JTruax/brackets-theme-raven.git",
+    "homepage": "https://github.com/dGilli/brackets-theme-raven.git",
     "version": "1.0.4",
     "author": "Justin Truax (http://justintruax.com)",
     "license": "MIT",
