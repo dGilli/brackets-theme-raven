@@ -1,6 +1,6 @@
 # Raven Theme for Brackets
 
-Dark color scheme based on Dreamweaver CC's Raven theme.
+Dark color scheme based on Dreamweavers Raven theme
 
 ## Installation
 * Open Brackets

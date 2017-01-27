@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
     "name": "raven-adjusted",
     "title": "Raven-adjusted",
     "description": "Dark color scheme based on Dreamweaver CC's Raven theme.",
     "homepage": "https://github.com/dGilli/brackets-theme-raven.git",
     "version": "1.0.4",
+=======
+    "name": "raven",
+    "title": "Raven",
+    "description": "Dark color scheme based on Dreamweavers Raven theme. Multi-color support for different language modes.",
+    "homepage": "https://github.com/JTruax/brackets-theme-raven.git",
+    "version": "1.0.3",
+>>>>>>> parent of 39b3767... Added files via upload
     "author": "Justin Truax (http://justintruax.com)",
     "license": "MIT",
     "theme": {
